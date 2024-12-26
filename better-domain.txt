@@ -1,4 +1,4 @@
-icook.tw:443#官方优选域名01
-alphacoders.com:443#官方优选域名02
-visa.com.cn:443#官方优选域名03
-www.dogfight360.com:443#官方优选域名04
+icook.tw:443#优选域名01
+alphacoders.com:443#优选域名02
+visa.com.cn:443#优选域名03
+www.dogfight360.com:443#优选域名04
