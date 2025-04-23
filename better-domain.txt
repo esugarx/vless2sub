@@ -4,3 +4,8 @@ visa.com.cn:443#优选域名
 www.dogfight360.com:443#优选域名
 cloudflare.182682.xyz:443#优选域名
 fast-fast.asuscomm.com:443#优选域名
+bestcf.top:443#优选域名
+cdn.2020111.xyz:443#优选域名
+cfip.cfcdn.vip:443#优选域名
+cf.0sm.com:443#优选域名
+cf.090227.xyz:443#优选域名
