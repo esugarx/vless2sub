@@ -7,7 +7,5 @@ bestcf.top:443#cf-domain-us6
 cdn.2020111.xyz:443#cf-domain-us7
 cf.0sm.com:443#cf-domain-us8
 cf.090227.xyz:443#cf-domain-us9
-
 www.dogfight360.com:443#cf-domain-de
-
 bestproxy.030101.xyz:443#cf-domain-ae
